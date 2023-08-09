@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+body {
+    text-align: center;
+}
+
+.title {
+    font-size: 2px;
+}
+
+.set {
+    font-size: 2px;
+}
+
+.timer {
+    margin-left: 0;
+}
+
+.timer-set button {
+    font-size: 2px;
+}
+
+
+.count {
+    padding: 0px 10px;
+    font-size: 5px;
+    margin-top: 10px;
+}
